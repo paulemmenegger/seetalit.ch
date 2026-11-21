@@ -1,0 +1,7 @@
+# Nur die Website wird veröffentlicht. Alles hier bleibt lokal.
+_Archiv/
+_sicherung-*/
+Endversion/
+Quelle/
+desktop.ini
+Thumbs.db
